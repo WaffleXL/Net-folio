@@ -1,9 +1,14 @@
 # Computor Network - Portfolio
 
-นาย จิณณวัตร โพธิ์ศรีทอง\n
+นาย จิณณวัตร โพธิ์ศรีทอง
+
 รหัสนักศึกษา: 673380263-2 
+
 Section: 2
+
 กำลังศึกษาที่: มหาวิทยาลัยขอนแก่น วิทยาลัยการคอมพิวเตอร์ สาขาวิชาวิทยาการคอมพิวเตอร์
+
+
 ติดต่อ: jinnawat.p@kkumail.com
 
 
@@ -25,3 +30,6 @@ Section: 2
 | **Lab 3** | Network Troubleshooting & Analysis | [📄 Lab3.pdf](https://github.com/WaffleXL/Net-folio/blob/main/Lab/Lab3.pdf) |
 | **Lab 4** | Comprehensive Network Design | [📄 LAB4.pdf](https://github.com/WaffleXL/Net-folio/blob/main/Lab/LAB4.pdf) |
 | **Lab 5** | Design A New Network | [📄 LAB5.pdf](https://github.com/WaffleXL/Net-folio/blob/main/Lab/LAB5.pdf) |
+
+**Cisco Certification**
+
