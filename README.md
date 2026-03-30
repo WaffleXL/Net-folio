@@ -30,6 +30,12 @@ Section: 2
 | **Lab 4** | Comprehensive Network Design | [📄 LAB4.pdf](https://github.com/WaffleXL/Net-folio/blob/main/Lab/LAB4.pdf) |
 | **Lab 5** | Design A New Network | [📄 LAB5.pdf](https://github.com/WaffleXL/Net-folio/blob/main/Lab/LAB5.pdf) |
 
-**Cisco Certification** : [📄 PDF](https://github.com/WaffleXL/Net-folio/raw/main/Cisco/cert/Getting_Started_with_Cisco_Packet_Tracer_certificate_jinnawat-p-kkumail-com_5bf8cd43-86d7-4c13-8e6c-67ef0d0110d4.pdf)
+Final Project: Tastes Through Network [github](https://github.com/boatrocl/Network_Project_2026)
 
-**Cisco Score** :         [📄 PDF](https://github.com/WaffleXL/Net-folio/raw/main/Cisco/CisScore/cisscore.png)
+**Course: Pre1 Computer Networks – Getting Started with Cisco Packet Tracer
+Issued by: Cisco Networking Academy**
+
+_Cisco Certification_  : [📄 PDF](https://github.com/WaffleXL/Net-folio/raw/main/Cisco/cert/Getting_Started_with_Cisco_Packet_Tracer_certificate_jinnawat-p-kkumail-com_5bf8cd43-86d7-4c13-8e6c-67ef0d0110d4.pdf)
+
+**Course: CCNA1: Introduction to Networks**
+_Cisco Score_ :         [📄 PDF](https://github.com/WaffleXL/Net-folio/raw/main/Cisco/CisScore/cisscore.png)
