@@ -1,2 +1,19 @@
-# Net-folio
-portfolio สำหรับวิชา network
+# Computor Network - Portfolio
+
+นาย จิณณวัตร โพธิ์ศรีทอง
+รหัสนักศึกษา: 673380263-2 
+Section: 2
+กำลังศึกษาที่: มหาวิทยาลัยขอนแก่น วิทยาลัยการคอมพิวเตอร์ สาขาวิชาวิทยาการคอมพิวเตอร์
+ติดต่อ: jinnawat.p@kkumail.com
+
+| Assignment | Description | Link |
+|------------|-------------|------|
+
+
+
+| Lab | Description | Link |
+|-----|-------------|------|
+| **Lab 1** | Foundation Network Concepts | [📄 Lab1.pdf](https://github.com/WaffleXL/Net-folio/blob/main/Lab/Lab1.pdf) |
+| **Lab 2** | Advanced Network Configuration | [📄 Lab2.pdf](https://github.com/WaffleXL/Net-folio/blob/main/Lab/Lab2.pdf) |
+| **Lab 3** | Network Troubleshooting & Analysis | [📄 Lab3.pdf](https://github.com/WaffleXL/Net-folio/blob/main/Lab/Lab3.pdf) |
+| **Lab 4** | Comprehensive Network Design | [📄 LAB4.pdf](https://github.com/WaffleXL/Net-folio/blob/main/Lab/LAB4.pdf) |
