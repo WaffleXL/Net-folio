@@ -8,6 +8,10 @@ Section: 2
 
 | Assignment | Description | Link |
 |------------|-------------|------|
+| Assignment 1 |Essay| [essay.pdf](./Assi/essay.pdf) |
+| Assignment 2 |Topology| [ass2.pdf](./Assi/ass2.pdf) |
+| Assignment 3 |Not Simple| [Ass3.pdf](./Assi/Ass3.pdf) |
+| Assignment 4 |TCP-UDP| [ass4.pdf](./Assi/ass4.pdf) |
 
 
 
